@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "SudoStopFighting": {
+      "commandName": "Project",
+      "commandLineArgs": "< puzzles.txt > solutions.txt",
+      "workingDirectory": "C:\\Users\\serap\\Google Drive\\School\\CSCD 320 - Algorithms\\Assignments\\AS5 - Sudo Stop Fighting\\SudoStopFighting"
+    }
+  }
+}

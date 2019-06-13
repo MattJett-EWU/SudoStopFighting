@@ -1,0 +1,11 @@
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS5 - Sudo Stop Fighting\SudoStopFighting\bin\Debug\netcoreapp2.2\SudoStopFighting.deps.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS5 - Sudo Stop Fighting\SudoStopFighting\bin\Debug\netcoreapp2.2\SudoStopFighting.runtimeconfig.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS5 - Sudo Stop Fighting\SudoStopFighting\bin\Debug\netcoreapp2.2\SudoStopFighting.runtimeconfig.dev.json
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS5 - Sudo Stop Fighting\SudoStopFighting\bin\Debug\netcoreapp2.2\SudoStopFighting.dll
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS5 - Sudo Stop Fighting\SudoStopFighting\bin\Debug\netcoreapp2.2\SudoStopFighting.pdb
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS5 - Sudo Stop Fighting\SudoStopFighting\obj\Debug\netcoreapp2.2\SudoStopFighting.csprojAssemblyReference.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS5 - Sudo Stop Fighting\SudoStopFighting\obj\Debug\netcoreapp2.2\SudoStopFighting.csproj.CoreCompileInputs.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS5 - Sudo Stop Fighting\SudoStopFighting\obj\Debug\netcoreapp2.2\SudoStopFighting.AssemblyInfoInputs.cache
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS5 - Sudo Stop Fighting\SudoStopFighting\obj\Debug\netcoreapp2.2\SudoStopFighting.AssemblyInfo.cs
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS5 - Sudo Stop Fighting\SudoStopFighting\obj\Debug\netcoreapp2.2\SudoStopFighting.dll
+C:\Users\serap\Google Drive\School\CSCD 320 - Algorithms\Assignments\AS5 - Sudo Stop Fighting\SudoStopFighting\obj\Debug\netcoreapp2.2\SudoStopFighting.pdb
